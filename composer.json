@@ -1,0 +1,20 @@
+{
+    "name": "caylof/jwt",
+    "type": "library",
+    "description": "PHP jwt used by lcobucci/jwt",
+    "require": {
+        "lcobucci/jwt": "^4.3"
+    },
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Caylof\\Jwt\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "caylof",
+            "email": "caylof@qq.com"
+        }
+    ]
+}
